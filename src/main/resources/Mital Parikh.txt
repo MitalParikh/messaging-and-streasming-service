@@ -1,0 +1,46 @@
+Mital Parikh
+📞 +1 682-246-4957 | ✉️ mital.parikh@gmail.com | 🔗 LinkedIn: https://www.linkedin.com/in/mital-parikh-386380b0/
+H4-EAD valid till Jun 2025
+Professional Summary
+Senior Software Engineer with 15+ years of experience delivering enterprise applications for telecom and financial services industries (clients include DTCC, Sprint, TELUS, Metasolv). Proven ability to modernize architectures, design resilient workflows, and resolve complex concurrency issues across distributed systems. Adept at integrating front-end and backend solutions, migrating legacy systems to cloud/container platforms, and implementing high-availability messaging architectures. Known for bridging the gap between business requirements and technical delivery.
+Core Competencies
+• Architecture & Modernization: Java 17, Spring Boot 6, Angular 15, OpenShift, Cloud Deployments
+• Frontend Engineering: Angular Material, RxJS Observables/Subjects, State Management (@ngRx), Performance Optimization
+• Messaging & Streaming: JMS, IBM MQ, Apache Artemis MQ, Apache Kafka
+• Data & Integration: Oracle, PostgreSQL, H2, Liquibase, REST APIs
+• Enterprise Practices: Microservices Design, CI/CD Pipelines, Application Monitoring (Spring Actuator)
+• Leadership: Technical Decision-Making, Workflow Optimization, Cross-functional Team Collaboration
+Experience
+Senior Developer – Tata Consultancy Services (TCS) | Client: DTCC
+May 2023 – Present
+- Led application modernization from Java 8/Spring Boot 2 to Java 17/Spring Boot 3, improving maintainability and performance.
+- Architected JMS messaging strategy (IBM MQ, Apache Artemis MQ) to eliminate race conditions and ensure consistency across multi-workflow processes spanning UI, API, and backend services.
+- Implemented dynamic queue loading, routing, and filtering driven from database configurations, enabling flexible support for multiple MQ types while segregating data from code for maintainability.
+- Successfully integrated internal Spring Boot applications to enable unified operation of messaging queues for the Fedwire network the team managed, ensuring operational consistency and streamlined monitoring.
+- Migrated deployments to OpenShift containers, enabling scalable, cloud-native operation.
+- Designed Liquibase-driven database migration pipelines supporting H2, Oracle, and PostgreSQL.
+- Integrated Apache Kafka for event-driven architectures.
+- Implemented RxJS-based data flows in Angular 15 to handle asynchronous API calls, WebSocket streams, and complex UI event coordination.
+- Established Spring Actuator-based monitoring for proactive system health tracking.
+- Implemented Spring application security features including certificate-based authentication, Ping authentication, and SSL/TLS 1.2 protocol to ensure secure connectivity across internal and external systems.
+Frontend Developer – Filigree Home Decor (Remote)
+Nov 2021 – Apr 2023
+- Built a responsive e-commerce platform with Angular & Firebase for global product catalog and sales.
+- Delivered end-to-end features including authentication, search, checkout, and admin dashboards.
+- Leveraged RxJS operators (mergeMap, switchMap, debounceTime, combineLatest) to optimize data loading, search, and user interactions.
+- Improved UI performance through lazy loading, observables, and optimized API consumption.
+- Integrated OAuth 2.0 authentication for secure user access and API protection.
+- Skilled at using Angular pipes, ngZones, Change Detection for performance optimization.
+- Used angular animation.
+Tech Lead / Tech Specialist – Tech Mahindra, USA & India
+Nov 2005 – Jul 2017
+- Directed OSS application development for Sprint & TELUS, enhancing order management, service activation, and inventory systems.
+- Delivered multi-threaded Java modules and Angular dashboards for operational insights.
+- Mentored teams, led client technical discussions, and ensured high-quality releases.
+- Used NodeJs for apis, Shell script for application configuration & troubleshooting 
+Senior Executive IT – Iqara/YOU Broadband, India
+Jul 2003 – Sep 2005
+- Upgraded OSS platforms, automated provisioning workflows, and reduced service activation time through workflow re-engineering.
+Education
+• M.S. Telecommunications & Software Engineering – BITS Pilani (2009)
+• B.E. Computer Engineering – South Gujarat University (2003)
